@@ -8,3 +8,5 @@ baseurl:          /
 author:
   name:           'Jordi Mas'
   url:            https://github.com/jrmas
+
+paginate:         5
