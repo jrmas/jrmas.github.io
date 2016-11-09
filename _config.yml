@@ -1,0 +1,27 @@
+# Dependencies
+#markdown:         redcarpet
+#highlighter:      pygments
+
+# Permalinks
+#permalink:        pretty
+#relative_permalinks: true
+
+# Setup
+title:            jrmas.github.io
+tagline:          'tagline'
+description:      'description'
+url:              https://jrmas.github.io
+baseurl:          /
+
+author:
+  name:           'Jordi Mas'
+  url:            https://github.com/jrmas
+
+#paginate:         5
+
+# Custom vars
+#version:          2.1.0
+
+#github:
+#  repo:           https://github.com/poole/hyde
+
